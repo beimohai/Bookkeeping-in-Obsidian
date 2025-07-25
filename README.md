@@ -46,7 +46,9 @@ Obsidian/
 1. 在 Obsidian 中安装并启用 Templater 与 Dataview 插件，其中 Dataview 需要启用 Dataview JS；
 2. 下载 Template 中的记账模板，将记账模板放置在 Templater 的模板文件夹下，并修改记账模板内的“你的存放目录”为实际存放目录；
 3. 执行记账模板。
+
 ![[记账示例.png]]
+
 ![[月汇总示例.png]]
 ## To-do：
 1. 新增Tag汇总模板，可以在备注设置tag，仅汇总包含该tag的账目（目前我用不到，如果需要的人多的话会尽快更新）；
