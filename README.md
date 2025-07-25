@@ -29,18 +29,18 @@
    - 按日期 & 条目名称拼音排序
 ## 文件结构
 ```text
-Obsidian
-	├─ Templates
-	│	├─ 单日记账模板.md
-	│	├─ 多日记账模板.md
-	│	└─ 月汇总模板.md
-	└─ 你的存放目录/
-		├─ YYYY/
-		│	└─ MM/
-		│		└─ DD/
-		│			└─ 账目文件.md      # 一条账目一个文件
-		└─ 汇总/
-			└─ MM月汇总.md
+Obsidian/
+  ├─ Templates/
+  │	├─ 单日记账模板.md
+  │	├─ 多日记账模板.md
+  │	└─ 月汇总模板.md
+  └─ 你的存放目录/
+  	├─ YYYY/
+  	│	└─ MM/
+  	│    	└─ DD/
+  	│    		└─ 账目文件.md      # 一条账目一个文件
+  	└─ 汇总/
+  		└─ MM月汇总.md
 ```
 ## 使用方法
 1. 在 Obsidian 中安装并启用 Templater 与 Dataview 插件，其中 Dataview 需要启用 Dataview JS；
